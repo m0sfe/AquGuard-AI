@@ -1,0 +1,36 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Node
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large/generated ML outputs
+aquaguard_v42_outputs/
+*.pt
+*.pkl
+*.joblib
+*.txt.model
+*.onnx
+model_*.json
+model_*.txt
+alert_log.csv
+test_predictions_full.csv
+
+# Large datasets / media - upload separately or use Git LFS
+jordan_v4_train.csv
+jordan_v4_test.csv
+*.mp4
+*.pbix
