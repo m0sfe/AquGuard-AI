@@ -1,6 +1,5 @@
-# Demo video
+# AquaGuard AI Demo Video
 
-Paste the final demo video link here after uploading it to Google Drive, YouTube unlisted, or the competition form.
+Demo video link:
 
-Recommended filename from the original project package:
-`CTF-AquaGuard AI.mp4`
+https://drive.google.com/file/d/1hRMgb1gBT2RUQSc4QQpgfNfNJSGyo1e0/view?usp=sharing
